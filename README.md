@@ -4,13 +4,16 @@ Saran Sistem Pendidikan di Indonesia
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+<p float="left">
+  <img src="screenshot/home.png" width="25%" />
+  <img src="screenshot/adab.png" width="25%" />
+  <img src="screenshot/bahasa.png" width="25%" />
+  <img src="screenshot/budaya.png" width="25%" />
+  <img src="screenshot/ilmu.png" width="25%" />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## What I Used
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* Flutter
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Thanks
